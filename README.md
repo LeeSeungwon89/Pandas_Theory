@@ -1,4 +1,4 @@
-Updated at 2:21 AM on 21.9.21.
+Updated at 2:53 AM on 21.9.21.
 
 ## 데이터 분석과 과학을 위한 파이썬 활용법
 
